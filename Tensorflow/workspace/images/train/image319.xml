@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Zoom0</folder>
+	<filename>image319.jpg</filename>
+	<path>C:\Users\ACER\Downloads\Zoom0\image319.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Distracted</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>22</ymin>
+			<xmax>346</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
